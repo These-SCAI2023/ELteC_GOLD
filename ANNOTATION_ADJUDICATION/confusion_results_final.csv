@@ -1,0 +1,7 @@
+filename,confusion_count
+CARRAUD/resultat_Adjudication_CARRAUD_petite-Jeanne_Kraken-base_spaCy3.7.2-lg.csv.aia.csv,555
+CARRAUD/resultat_Adjudication_CARRAUD_petite-Jeanne_REF_spaCy3.7.2-lg.csv.aia.csv,410
+CARRAUD/resultat_Adjudication_CARRAUD_petite-Jeanne_TesseractFra-PNG_spaCy3.7.2-lg.csv.aia.csv,481
+DAUDET/resultat_Adjudication_DAUDET_petit-chose_Kraken-base_spaCy3.7.2-lg.csv.aia.csv,545
+DAUDET/resultat_Adjudication_DAUDET_petit-chose_REF_spaCy3.7.2-lg.csv.aia.csv,469
+DAUDET/resultat_Adjudication_DAUDET_petit-chose_TesseractFra-PNG_spaCy3.7.2-lg.csv.aia.csv,494
